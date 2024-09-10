@@ -1,1 +1,1 @@
-echo "This is GITHUB and Jenkins Integratio\ imn"
+echo "This is GITHUB and Jenkins Integratio\ nimn"
